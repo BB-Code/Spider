@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
-# Created on 2016-03-25 00:59:45
+# Created on 2017-12-25 10:00:20
 # Project: taobaomm
 
 from pyspider.libs.base_handler import *
@@ -8,7 +8,7 @@ import os
 
 page_start = 1
 page_end = 30
-dir_path = '/var/py/mm'
+dir_path = '/mm'
 
 class Handler(BaseHandler):
     crawl_config = {}
