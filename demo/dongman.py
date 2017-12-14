@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# Created on 2017-12-12 08:56:34
+# Created on 2017-12-12 
 # Project: dongman
 
 from pyspider.libs.base_handler import *
